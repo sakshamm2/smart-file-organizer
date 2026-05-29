@@ -14,6 +14,6 @@ A Python desktop application that automatically organizes files into structured 
 - Tkinter
 - Matplotlib
 
-## How to Run
+#How to RUN
 ```bash
 python main.py
